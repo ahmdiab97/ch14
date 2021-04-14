@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter 13</string>
+    <string name="product_id">Product ID</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="not_assigned">NaN</string>
+</resources>
